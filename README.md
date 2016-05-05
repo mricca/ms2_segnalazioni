@@ -4,9 +4,9 @@ segnalazioni
 Quick Start
 ------------
 
-Clone the repository with the --recursive option to automatically clone submodules:
+Clone the repository with the --recurse-submodules option to automatically clone submodules:
 
-`git clone --recursive https://github.com/mricca/ms2_segnalazioni.git`
+`git clone --recurse-submodules https://github.com/mricca/ms2_segnalazioni.git`
 
 Install NodeJS, if needed, from [here](https://nodejs.org/en/blog/release/v0.12.7/).
 
